@@ -23,10 +23,12 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
 
-  <sonar.projectKey>panikeswar_panifa4</sonar.projectKey>
+
+  <sonar.projectKey>panikeswar_pani123</sonar.projectKey>
   <sonar.organization>panikeswar</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>31071f1e53a92a2070d1b0c4091bb0ec8a520ec0</sonar.login>
+  <sonar.login>edfbbd3042b0026844745f59b8a3167e22e9883c</sonar.login>
+
 
 	</properties>
 <dependencyManagement>
