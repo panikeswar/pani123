@@ -1,0 +1,49 @@
+
+kcom.management.ProductMS.controller.ProductController#getproductsonName(Ljava/lang/String;)Ljava/util/List;v
+lC:/Users/sing/Downloads/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java+ +(*"startingBlock*®
+startingBlockv
+lC:/Users/sing/Downloads/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java+* +([ê
+ç
+v
+lC:/Users/sing/Downloads/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java++ +(G
+%2"
+__annotate*86
+4org.springframework.web.bind.annotation.PathVariable*!
+
+productNamejava.lang.String²
+¯
+v
+lC:/Users/sing/Downloads/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java+O +(Z
+productNamejava.lang.String"__annotation*
+
+%2*
+1*Ø
+1v
+lC:/Users/sing/Downloads/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java,  ,(.‡
+„
+v
+lC:/Users/sing/Downloads/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java,  ,(.5
+%0/com.management.ProductMS.service.ProductService"__id*M*K7
+5com.management.ProductMS.controller.ProductController"
+productServiceûø
+v
+lC:/Users/sing/Downloads/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java,  ,(M
+%1java.util.List"ecom.management.ProductMS.service.ProductService#getproductsonName(Ljava/lang/String;)Ljava/util/List;*7
+5
+%0/com.management.ProductMS.service.ProductService*!
+
+productNamejava.lang.String2%getproductsonName(Ljava/lang/String;)·
+´
+v
+lC:/Users/sing/Downloads/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java, ,(N
+
+productDtojava.util.List"__id*
+
+%1java.util.List"˜
+v
+lC:/Users/sing/Downloads/Product-Kar/src/main/java/com/management/ProductMS/controller/ProductController.java- -(
+
+
+productDtojava.util.List:
+productNamejava.lang.StringB97
+5com.management.ProductMS.controller.ProductController

@@ -1,0 +1,7 @@
+organization=panikeswar
+projectKey=panikeswar_pani123
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=panikeswar_pani123
+ceTaskId=AXK4gumaK6fcTQJKX9Ac
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXK4gumaK6fcTQJKX9Ac
