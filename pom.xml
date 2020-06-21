@@ -27,7 +27,7 @@
   <sonar.projectKey>panikeswar_pani123</sonar.projectKey>
   <sonar.organization>panikeswar</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>edfbbd3042b0026844745f59b8a3167e22e9883c</sonar.login>
+  <sonar.login>7ea31366c6176f8b587dbd48673e58f029dcd102</sonar.login>
 
 
 	</properties>
